@@ -32,17 +32,17 @@
 ### Languages and Tools:
 
 [<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />][IntelliJ]
-[<img align="left" alt="Anaconda" width="26px" src="https://i.ytimg.com/vi/Q0jGAZAdZqM/maxresdefault.jpg" />][Anaconda]
+[<img align="left" alt="Anaconda" width="26px" src="https://media.trustradius.com/vendor-logos/46/UH/OTQJVNSSIAHO.JPEG" />][Anaconda]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5] 
 [<img align="left" alt="Angular" width="58px" src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36" />][Angular]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][Python]
-[<img align="left" alt="Java" width="26px" src="https://www.probytes.net/wp-content/uploads/2018/07/java-logo-vector-768x768.png" />][Java]
+[<img align="left" alt="Java" width="26px" src="https://lh3.googleusercontent.com/proxy/TdJjxYSszZndzDsff3SpgVrZqkfcIuPod5bQj4gGb5GmwSvG8tf64nBD2y3tgD879XHUUYQMqif-Hj5x-EsVHoSd6fhpA-RtAWyQ0v7n7rCN_Ieii5U" />][Java]
 <!-- [<img align="left" alt=".Net Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][Springboot] -->
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJs]
 
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
-[<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDb]
+[<img align="left" alt="MongoDB" width="50px" src="https://diginomica.com/sites/default/files/images/2017-06/mongodb.png" />][MongoDb]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Jenkins" width="40px" src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" />][Jenkins]
@@ -82,16 +82,16 @@
 [Angular]:https://angular.io/
 [Javascript]:https://www.w3schools.com/js/
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[Java]: https://www.probytes.net/wp-content/uploads/2018/07/java-logo-vector-768x768.png
+[Java]: https://lh3.googleusercontent.com/proxy/TdJjxYSszZndzDsff3SpgVrZqkfcIuPod5bQj4gGb5GmwSvG8tf64nBD2y3tgD879XHUUYQMqif-Hj5x-EsVHoSd6fhpA-RtAWyQ0v7n7rCN_Ieii5U
 <!-- [.net core]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png -->
 [Groovy]:https://groovy-lang.org/documentation.html
 [NodeJs]:https://www.w3schools.com/nodejs/nodejs_intro.asp
 [Sql]: https://www.w3schools.com/sql/
 [MySql]:https://www.tutorialspoint.com/mysql/index.htm
-[MongoDb]:https://www.tutorialspoint.com/mongodb/index.htm
+[MongoDb]:https://diginomica.com/sites/default/files/images/2017-06/mongodb.png
 [Git]:https://www.tutorialspoint.com/git/index.htm
 [Github]:https://guides.github.com/activities/hello-world/
 [Jenkins]:https://www.tutorialspoint.com/jenkins/index.htm
 [Teamcity]:https://www.tutorialspoint.com/continuous_integration/continuous_integration_creating_project_teamcity.htm
 [IntelliJ]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png
-[Anaconda]: https://i.ytimg.com/vi/Q0jGAZAdZqM/maxresdefault.jpg
+[Anaconda]: https://media.trustradius.com/vendor-logos/46/UH/OTQJVNSSIAHO.JPEG
