@@ -65,14 +65,14 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SonakshiRastogi&repo=SonakshiRastogi)](https://github.com/SonakshiRastogi/SonakshiRastogi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Paras-Rastogi-23&repo=Paras-Rastogi-23)](https://github.com/Paras-Rastogi-23/Paras-Rastogi-23)
 
 <!-- <img align="left" alt="Sonakshi's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Paras-Rastogi-23&show_icons=true&hide_border=true" /> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonakshiRastogi)](https://github.com/Paras-Rastogi-23/Paras-Rastogi-23) -->
 
 [website]: https://www.linkedin.com/in/paras-rastogi-a4459b181/
-[twitter]: https://twitter.com/RastogiSonakshi
+[twitter]: https://twitter.com/ParasRa66137972
 [Facebook]: https://www.facebook.com/paras.rastogi.716/
 [Python]: https://docs.python.org/3/tutorial/
 [linkedin]: https://www.linkedin.com/in/paras-rastogi-a4459b181/
