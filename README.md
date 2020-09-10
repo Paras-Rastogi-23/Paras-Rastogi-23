@@ -82,7 +82,7 @@
 [Angular]:https://angular.io/
 [Javascript]:https://www.w3schools.com/js/
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[Java]: https://lh3.googleusercontent.com/proxy/TdJjxYSszZndzDsff3SpgVrZqkfcIuPod5bQj4gGb5GmwSvG8tf64nBD2y3tgD879XHUUYQMqif-Hj5x-EsVHoSd6fhpA-RtAWyQ0v7n7rCN_Ieii5U
+[Java]: https://www.cleanpng.com/png-java-class-file-java-platform-standard-edition-jav-914674/
 <!-- [.net core]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png -->
 [Groovy]:https://groovy-lang.org/documentation.html
 [NodeJs]:https://www.w3schools.com/nodejs/nodejs_intro.asp
