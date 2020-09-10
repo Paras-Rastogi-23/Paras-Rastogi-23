@@ -37,7 +37,7 @@
 [<img align="left" alt="Angular" width="58px" src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36" />][Angular]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][Python]
-[<img align="left" alt="Java" width="26px" src="https://lh3.googleusercontent.com/proxy/TdJjxYSszZndzDsff3SpgVrZqkfcIuPod5bQj4gGb5GmwSvG8tf64nBD2y3tgD879XHUUYQMqif-Hj5x-EsVHoSd6fhpA-RtAWyQ0v7n7rCN_Ieii5U" />][Java]
+[<img align="left" alt="Java" width="26px" src="https://www.cleanpng.com/png-java-class-file-java-platform-standard-edition-jav-914674/" />][Java]
 <!-- [<img align="left" alt=".Net Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][Springboot] -->
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJs]
 
