@@ -15,7 +15,7 @@
 ### Hi there, I'm Paras - Software Developer [website] 👋
 
 ## I'm a Learner, Developer, and Explorer!
-- 🔭 I’m currently working as an intern in [Identex Trade Solutions]!
+- 🔭 I’m currently working as a Software Engineer in [Chimera Technologies Private Limited]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
